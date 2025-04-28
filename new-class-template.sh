@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://photos.app.goo.gl/9LCECkRY4PmNYGT99');
+      background-image: url('https://photos.app.goo.gl/UmjpZFmHGu387moG6');
       min-height: 100%;
       background-position: center;
       background-size: cover;
